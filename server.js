@@ -25,5 +25,3 @@ http.createServer(function (request, response) {
         response.end('Page Not Found');
     }
 }).listen(8080);
-
-//window.onload = function() { alert('Yay Node!'); };
